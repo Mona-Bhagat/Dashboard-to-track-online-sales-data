@@ -19,25 +19,25 @@ Calculation of delivery days by taking the difference between the order and the 
 
 # Exploratory Data Analysis
 EDA involved exploring the sales data to answer key questions, such as:
-  * What is the overall sales and profit trend?
-	* Which category and sub-category products are top sellers?
-	* Which months have higher sales?
-  * Which state provides high sales and profits
+* What is the overall sales and profit trend?
+* Which category and sub-category products are top sellers?
+* Which months have higher sales?
+* Which state provides high sales and profits
 
 # Results/Findings
 The analysis results are summarized as follows:
-	1. The company's sales have been steadily increasing over the past year, with a noticeable peak during October and December.
-	2. Office supplies is the best-performing category in terms of sales.
+1 The company's sales have been steadily increasing over the past year, with a noticeable peak during October and December.
+2 Office supplies is the best-performing category in terms of sales.
   3  Binders is the best-performing sub-category in terms of revenue
   4  Average delivery days is 3.93 days 
   5. The state of California is driving the highest sales and profit 
 	 
 # Recommendations
 Based on the analysis, we recommend the following actions:
-	* Investing in marketing and promotions from October to December should maximize revenue.
-	* Focus on expanding and promoting products in the Category of Office supplies and specifically Binders.
-	* Implement a customer segmentation strategy focusing on targeting consumers and corporates
-  * Focus on states such as California, New York, and Texas more as key drivers of sales
+* Investing in marketing and promotions from October to December should maximize revenue.
+* Focus on expanding and promoting products in the Category of Office supplies and specifically Binders.
+* Implement a customer segmentation strategy focusing on targeting consumers and corporates
+* Focus on states such as California, New York, and Texas more as key drivers of sales
 
 
 
