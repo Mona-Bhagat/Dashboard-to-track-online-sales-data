@@ -26,11 +26,11 @@ EDA involved exploring the sales data to answer key questions, such as:
 
 # Results/Findings
 The analysis results are summarized as follows:
-1 The company's sales have been steadily increasing over the past year, with a noticeable peak during October and December.
-2 Office supplies is the best-performing category in terms of sales.
-  3  Binders is the best-performing sub-category in terms of revenue
-  4  Average delivery days is 3.93 days 
-  5. The state of California is driving the highest sales and profit 
+* The company's sales have been steadily increasing over the past year, with a noticeable peak during October and December.
+* Office supplies is the best-performing category in terms of sales.
+* Binders is the best-performing sub-category in terms of revenue
+* Average delivery days is 3.93 days 
+* The state of California is driving the highest sales and profit 
 	 
 # Recommendations
 Based on the analysis, we recommend the following actions:
