@@ -1,6 +1,9 @@
 # Project Overview
 This data analysis project aims to provide actionable insights to help drive strategic decisions, supporting the supermarket's goals for growth and efficiency. This was done by identifying KPIs and designing a dashboard with interactive visualizations and filtering capabilities. 
 
+![Capture_Superstore dashboard snapshot](https://github.com/Mona-Bhagat/Superstore-sales-data-analysis/assets/148805047/59a8fcac-baa5-459a-9866-60f0c5dc3785)
+
+
 # Data Sources
 Sales Data: The primary dataset used for this analysis is the "SuperStore Sales DataSet" file, containing detailed information about each sale made by the company.
 
